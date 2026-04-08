@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/vadymkorzh/AZ-400-01/_apis/build/status%2FIsjakiSoft.az-400-git-web-app?branchName=azure-pipelines)](https://dev.azure.com/vadymkorzh/AZ-400-01/_build/latest?definitionId=6&branchName=azure-pipelines)
